@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+html, body {
+    height: 100%;
+}
+
+header {
+    height: 200px;
+    padding: 1px 0;
+    background-color: white;
+}
+
+.logo {
+    width: 70%;
+}
+
+.menu {
+    padding-top: 3%;
+    width: 25%;
+    text-align: right;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+section.sobre {
+    height: calc(100% - 200px);
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.corpo p {
+    text-align: justify; /* Alinha o texto justificado */
+    margin-bottom: 20px; /* Adiciona um espaço entre os parágrafos */
+}
