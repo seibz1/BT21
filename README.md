@@ -4,7 +4,7 @@
 
 ## 📝 Descrição
 
-Este projeto é um website front-end desenvolvido como um **trabalho universitário**. O tema escolhido foi o **Universo BT21**, uma marca de personagens criada através de uma colaboração entre o grupo BTS e a LINE FRIENDS.
+Este projeto é um website front-end desenvolvido como um **trabalho universitário**. O tema escolhido foi o **Universo BT21!!**
 
 O objetivo do projeto foi colocar em prática conceitos fundamentais de desenvolvimento web, focando na estruturação de páginas, estilização e navegação entre múltiplas telas.
 
